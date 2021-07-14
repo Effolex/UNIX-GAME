@@ -4,7 +4,7 @@
 			"tail arq", "wc arq", "*","man help", "whatis help"];
 		var questions = ["lista arquivos e diretorios", 
 			"lista TODOS os arquivos e diretorios", "cria um diretorio", 
-			"muda para o diretório chamado pasta1", "muda para o diretório inicial", 
+			"muda para o diretório chamado pasta1", "muda para o diretório home quando passado seu argumentos",
 			"muda para o diretorio pai", "mostra o caminho do diretorio atual",
 			"copia arq1 e o chama de arq2", "move ou renomeia arq1 para arq2",
 			"remove o arquivo chamado arq", "remove o diretorio chamado pasta1",
