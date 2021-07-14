@@ -15,7 +15,7 @@
 
 var userConsole = document.getElementById("console");
 var userInput = document.getElementById("uConsole");
-var botao = document.getElementById("botao");
+var botao = document.getElementById("botao"); 
 
 /* links  usados:
 -Is it possible to append to innerHTML without destroying descendants' event listeners?-
